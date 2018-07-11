@@ -5,14 +5,14 @@
   MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
-    original="Topic.htm"
+    original="NewTopic2.htm"
     source-language="en-us"
     MadCap:file-filter=""
     datatype="xhtml"
     target-language="ar">
     <header>
       <skl><external-file
-          href="Topic.htm.skl" /></skl>
+          href="NewTopic2.htm.skl" /></skl>
       <phase-group>
         <phase
           phase-name="translation"
@@ -45,23 +45,19 @@
     <body><trans-unit
         id="1"
         restype="x-xml-h1"
-        phase-name="pretrans"><source>Topic Title1 =====</source><seg-source><mrk
+        phase-name="pretrans"><source>NewTopic</source><seg-source><mrk
             mtype="seg"
-            mid="1"
-            MadCap:parentConditions="|Default.ScreenOnly">Topic Title1 =====</mrk></seg-source><target
+            mid="1">NewTopic</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0"
-            MadCap:diff="New" /></target></trans-unit><trans-unit
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
-        phase-name="pretrans"><source>This should be excluded.</source><seg-source><mrk
+        phase-name="pretrans"><source>Delete this text and replace it with your own content.</source><seg-source><mrk
             mtype="seg"
-            mid="1"
-            MadCap:conditions="Default.PrintOnly"
-            MadCap:parentConditions="|Default.ScreenOnly">This should be excluded.</mrk></seg-source><target
+            mid="1">Delete this text and replace it with your own content.</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
